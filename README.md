@@ -9,6 +9,12 @@ Email and phone data api from abstract
 3. `npm run build && npm run dev`
 
 
+### Technologies
+- Javascript
+- HTML
+- CSS
+- Webpack
+
 ### Made by 
 Author [Run](https://github.com/Run19)
 
